@@ -5,6 +5,4 @@
 
 - 🌱 I’m currently learning **Alpine.js, 11ty and the Phaser game engine.**
 
-- 🤝 I’m looking for help with **my ADHD.**
-
 - ⚡ Fun fact **I'm french canadian and I eat poutine.**
