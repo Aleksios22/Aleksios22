@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on **a tailwind-alpine starter.**
 
-- 🌱 I’m currently learning **Alpine.js, 11ty and the Phaser game engine.**
+- 🌱 I’m currently learning **Alpine.js, SvelteKit and the Phaser game engine.**
 
 - ⚡ Fun fact **I'm french canadian and I eat poutine.**
